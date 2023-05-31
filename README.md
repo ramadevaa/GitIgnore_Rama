@@ -1,0 +1,1 @@
+Halo GAmelab saya belajar git ignore
